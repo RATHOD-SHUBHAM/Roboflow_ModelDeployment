@@ -4,11 +4,12 @@ Must need a Roboflow Account.
 ## Deploy Custom Model Weights with Roboflow.
 
 Have a ready-to-upload dataset.\
-  Steps:\ 
-    1. Head to the Roboflow dashboard and create a new project.\
-    2. Upload the images associated with your project.\
-    3. Create a Dataset Version.\
-    4. Upload Custom Model Weights.\
+  Steps:
+  
+    1. Head to the Roboflow dashboard and create a new project.
+    2. Upload the images associated with your project.
+    3. Create a Dataset Version.
+    4. Upload Custom Model Weights.
     5. Test Your Model: Navigate to the “Deploy” tab in the Roboflow dashboard.
 
 
